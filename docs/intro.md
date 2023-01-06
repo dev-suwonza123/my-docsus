@@ -2,24 +2,24 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# บทนำการผสานรวมเอกสาร
 
-Let's discover **Docusaurus in less than 5 minutes**.
+การเริ่มต้นและบทช่วยสอน **เข้าชมเอกสารและทรัพยากร ทั้งหมดของคุณ**.
 
-## Getting Started
+## เริ่มต้น
 
-Get started by **creating a new site**.
+เริ่มต้น สร้าง **สร้างหน้าเว็บใหม่**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Or **หรือลองทดสอบแบบออนไลน์** ที่ลิงค์นี้ **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
+### สิ่งที่ต้องมีบนคอมของเรา
 
 - [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
+## สร้าง หน้าไซต์ ใหม่
 
-Generate a new Docusaurus site using the **classic template**.
+สร้างไซต์ Docusaurus ใหม่โดยใช้ก **เทมเพลตคลาสสิค**.
 
 The classic template will automatically be added to your project after you run the command:
 
@@ -31,9 +31,9 @@ You can type this command into Command Prompt, Powershell, Terminal, or any othe
 
 The command also installs all necessary dependencies you need to run Docusaurus.
 
-## Start your site
+## เริ่มเซิพเวอร์ของคุณ
 
-Run the development server:
+รันคำสั่งด้านล่างนี้:
 
 ```bash
 cd my-website
