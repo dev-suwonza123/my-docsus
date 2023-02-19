@@ -1,7 +1,7 @@
 ---
-title: Markdown page example
+title: รวมเว็บเครดิตฟรี
 ---
 
-# Markdown page example
+# รวมเว็บเครดิตฟรี
 
 You don't need React to write simple standalone pages.
